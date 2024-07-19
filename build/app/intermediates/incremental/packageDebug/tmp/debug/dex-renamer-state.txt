@@ -1,0 +1,4 @@
+#Mon Jul 01 14:34:58 EDT 2024
+base.0=/Users/joeylu/Documents/development/stubook/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
