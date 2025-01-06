@@ -166,11 +166,9 @@ class _CalendarPageState extends State<calendarPage> {
                   actions: [
                     ElevatedButton(
                       onPressed: () {
-                        // Ensure _selectedDay is not null
                         if (_selectedDay != null &&
                             _eventController.text.isNotEmpty) {
                           setState(() {
-                            // Check if the selected day already has events
                             if (events[_selectedDay!] != null) {
                               events[_selectedDay!]!
                                   .add(Event(_eventController.text));
