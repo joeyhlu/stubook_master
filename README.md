@@ -1,17 +1,11 @@
-# stubook
+# Stubook
 
-A new Flutter project.
+Stubook is an innovative application created by a group of students, with the primary aim of simplifying the daily study and learning experience. This app features the essential tools to ensure a stress free learning routine.
 
-## Getting Started
+<img width="784" alt="Screenshot 2025-01-09 at 9 04 04 PM" src="https://github.com/user-attachments/assets/dc8018b8-b722-4157-9431-1193a9d57b42" />
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# stubook_master
+# To Use
+- Install Flutter
+- Download this file, unzip it, and open it in VS CODE
+- Run ```flutter pub get``` to get required packages
+- Run dart fix if there are any red highlights
