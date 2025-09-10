@@ -4,6 +4,7 @@ Stubook is an innovative application created by a group of students, with the pr
 
 <img width="784" alt="Screenshot 2025-01-09 at 9 04 04 PM" src="https://github.com/user-attachments/assets/dc8018b8-b722-4157-9431-1193a9d57b42" />
 
+The link to download is: https://apps.apple.com/us/app/stubook/id6467346995
 # To Use
 - Install Flutter
 - Download this file, unzip it, and open it in VS CODE
