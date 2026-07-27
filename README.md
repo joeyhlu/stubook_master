@@ -1,4 +1,4 @@
-# Stubook
+# Stubook 
 
 Stubook is an innovative application created by a group of students, with the primary aim of simplifying the daily study and learning experience. This app features the essential tools to ensure a stress free learning routine.
 
